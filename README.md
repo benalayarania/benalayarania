@@ -13,7 +13,6 @@
 ## 👩‍💻 About Me
 
 * 🌐 Freelance Web Developer passionate about building modern and responsive web applications.
-* 🎓 First-year Computer Engineering student.
 * 💡 Interested in Web Development, UI/UX Design, Databases, and Cybersecurity.
 * 🎨 Experienced with Figma, prototyping, and front-end design.
 * 🚀 Always learning new technologies and improving my skills.
@@ -71,8 +70,7 @@
 
 * 💼 Freelancer Web Developer
 * 🌍 Tunisia
-* ✉️ Add your email or portfolio here
-* 🔗 Add your LinkedIn / Portfolio / Instagram
+* ✉️ benalayarania28@gmail.com
 
 ---
 
