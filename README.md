@@ -2,7 +2,7 @@
 
 # Hi there, I'm Rania Ben Alaya 👋
 
-### 💻 Web Developer Freelancer | 🎓 Computer Engineering Student
+### 💻 Web Developer Freelancer 
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 
